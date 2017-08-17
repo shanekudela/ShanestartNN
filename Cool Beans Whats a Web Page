@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+    <head>
+        <title>SuperK</title>
+        <style> h1 {
+  color: #ffffff;
+  background-color:   #ff00ff;
+}</style>
+    </head>
+    <body>
+        <h1> Cool Beans! Making a web page is too easy!</h1>
+        You can put your content here.
+    </body>
+    <img src="sulfur.JPG">
+</html>
